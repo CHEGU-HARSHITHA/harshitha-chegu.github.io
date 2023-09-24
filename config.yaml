@@ -170,8 +170,7 @@ params:
         content: |-
           Tucson, AZ
 
-          - Perform data preprocessing, develop a language-based model using OpenAI to generate research topic predictions, achieving
-          - improved accuracy in identifying and categorizing topics within large textual datasets
+          - Perform data preprocessing, develop a language-based model using OpenAI to generate research topic predictions, achieving improved accuracy in identifying and categorizing topics within large textual datasets
           - Establish knowledge graphs and networks, facilitating interdisciplinary collaborations within specific research domains
           - Identify and solve data problems by performing root cause analysis, resulting in the improved accuracy and reliability of datadriven decisions
           - Create datasets by pulling data from APIs using Python scripts, resulting in the creation of clean, usable datasets
